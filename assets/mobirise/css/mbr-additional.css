@@ -791,7 +791,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(35, 35, 35, 0.2);
+  background: rgba(35, 35, 35, 0.6);
 }
 .cid-sjQunKBJsb .navbar.opened {
   transition: all 0.3s;
@@ -1039,6 +1039,8 @@ a {
   }
 }
 .cid-sjVKgL96lK {
+  padding-top: 10rem;
+  padding-bottom: 6rem;
   background-image: url("../../../assets/images/studiofit-website-background-final.png");
 }
 .cid-sjVKgL96lK .mbr-section-title {
